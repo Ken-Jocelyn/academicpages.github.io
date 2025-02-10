@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default"
-title                    : "Your Name / Site Title"
+title                    : "ken-jocelyn / 个人网站"
 title_separator          : "-"
 name                     : &name "ken jocelyn"
 description              : &description "personal description"
@@ -26,10 +26,10 @@ author:
   name             : "Your Sidebar Name"
   pronouns         : # example: "she/her"  
   bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
+  location         : "中国湖北武汉"
+  employer         : "湖南师范大学"
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "jolie2233@qq.com" 
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
